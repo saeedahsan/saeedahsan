@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahsan Saeed</h1>
 
+# 💫 About Me:
+👀 I’m interested in full-stack web and mobile development<br>🌱 I’m currently learning Go and the Gin framework<br>👯 I’m looking to collaborate with other awesome creators<br>📫 I'm currently looking for Winter/Summer 2024 Internships
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-saeed-0ab27222b/)
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red&color=white)](mailto:ahsan02@gmail.com)
